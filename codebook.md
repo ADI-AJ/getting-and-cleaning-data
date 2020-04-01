@@ -6,7 +6,7 @@ date: "25.01.2018"
 
 output: "tidydate.txt""
 
-### Code Book
+# Code Book
 The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
 
 ## Description
